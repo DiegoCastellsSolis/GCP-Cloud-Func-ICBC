@@ -1,0 +1,9 @@
+pandas 
+google-cloud-bigquery 
+google-cloud-storage 
+openpyxl 
+xlrd 
+functions-framework 
+google-auth 
+google-auth-oauthlib  
+google-auth-httplib2
